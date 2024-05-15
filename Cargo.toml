@@ -1,0 +1,11 @@
+[package]
+name = "noko-sort"
+version = "0.1.0"
+edition = "2021"
+
+description = "The Selection Sort Algorithm implemented in rust"
+authors = ["Skub","Neko"]
+license = "MIT"
+
+
+[dependencies]
